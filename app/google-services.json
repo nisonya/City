@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823617549629",
+    "project_id": "jackcit",
+    "storage_bucket": "jackcit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823617549629:android:9d4fc9011e62bc2fb08154",
+        "android_client_info": {
+          "package_name": "city.fortune.online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfypbLN0Ke0n1ZX897OHuHG7LuHZsr5zI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
